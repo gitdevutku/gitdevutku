@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitdevutku" alt="gitdevutku" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity and Laravel**
+- 🌱 I’m currently learning **React-Native and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitdevutku](https://github.com/gitdevutku)
 
