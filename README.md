@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku Berki Baysal</h1>
-<h3 align="center">A Second Year Student In Computer Science</h3>
+<h3 align="center">A Third Year Student In Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitdevutku&label=Profile%20views&color=0e75b6&style=flat" alt="gitdevutku" /> </p>
 
